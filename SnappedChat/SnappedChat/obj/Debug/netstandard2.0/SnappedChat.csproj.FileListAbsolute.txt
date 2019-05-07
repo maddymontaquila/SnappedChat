@@ -1,0 +1,16 @@
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\bin\Debug\netstandard2.0\SnappedChat.deps.json
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\bin\Debug\netstandard2.0\SnappedChat.dll
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\bin\Debug\netstandard2.0\SnappedChat.pdb
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.csproj.CoreCompileInputs.cache
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.AssemblyInfoInputs.cache
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.AssemblyInfo.cs
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.dll
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.pdb
+C:\Users\maleger\source\repos\SnappedChat\SnappedChat\SnappedChat\obj\Debug\netstandard2.0\SnappedChat.csprojAssemblyReference.cache
